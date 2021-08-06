@@ -178,8 +178,8 @@
     "Change_Password": "Kennwort ändern"
   },
   "Plans": {
-    "[Uid]": {
-      "Name": "Plan name",
+    "gWKjM29p": {
+      "Name": "Flightright 24/7 1-Jahr kostenlose Mitgliedschaft",
       "UnitOfMeasure": "unit",
       "UnitOfMeasurePlural": "units"
     }
@@ -201,6 +201,7 @@
     "Person_PhoneWork": "Telefon (Arbeit)",
     "PostalCode": "Postleitzahl",
     "StateRegion": "Bundesland/Region",
+
     "Account_PhoneNumber":"Telefonnummer",
     "Account_Title":"Anrede",
     "Account_Title_Mr":"Herr",
@@ -211,7 +212,13 @@
     "Account_PreferredLanguage_English":"Englisch",
     "Account_PreferredLanguage_German":"Deutsch",
     "Account_DateOfBirth":"Geburtsdatum (TT.MM.JJJJ)",
-    "Account_NationalId":"Personalausweis: 9 Ziffern oben rechts auf Ihrem Personalausweis",
-    "Account_NationalIdValidUntil":"Personalausweis: Gültig bis (TT.MM.JJJJ)"
+    "Account_NationalId":"Personalausweis: 9 Ziffern oben rechts auf Ihrem Personalausweis.",
+    "Account_NationalIdValidUntil":"Personalausweis: Gültig bis (TT.MM.JJJJ)",
+    "Account_PassportIssuer":"",
+    "Account_PassportId":"Reisepass: 9 Ziffern oben rechts auf Ihrem Reisepass.",
+    "Account_PassportValidUntil":"Reisepass: Gültig bis (TT.MM.JJJJ)",
+    "PersonalDetails":"Persönliche Angaben",
+    "ContactDetails":"Kontaktangaben",
+    "TermsAndConditions":"Ich stimme den <a href='https://www.flightright.de/agb' target='_blank'>Allgemeinen Geschäftsbedingungen</a> und der <a href='https://www.flightright.de/datenschutz' target='_blank'>Datenschutzerklärung</a> zu."
     }
 }
