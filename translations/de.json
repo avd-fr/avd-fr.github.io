@@ -220,6 +220,7 @@
     "PersonalDetails":"Persönliche Angaben",
     "ContactDetails":"Kontaktangaben",
     "TermsAndConditions":"Ich stimme den <a href='https://www.flightright.de/agb' target='_blank'>Allgemeinen Geschäftsbedingungen</a> und der <a href='https://www.flightright.de/datenschutz' target='_blank'>Datenschutzerklärung</a> zu.",
-    "Account_PersonalDocuments":"Persönliche Dokumenten"
+    "Account_PersonalDocuments":"Persönliche Dokumenten",
+    "PersonalDocuments":"Persönliche Dokumenten"
     }
 }
