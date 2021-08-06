@@ -200,6 +200,7 @@
     "Person_PhoneMobile": "Mobiltelefon",
     "Person_PhoneWork": "Telefon (Arbeit)",
     "PostalCode": "Postleitzahl",
-    "StateRegion": "Bundesland/Region"
+    "StateRegion": "Bundesland/Region",
+    "Account_PhoneNumber": "Telefonnummer"
   }
 }
