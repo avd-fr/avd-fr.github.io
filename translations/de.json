@@ -184,6 +184,11 @@
       "UnitOfMeasurePlural": "units"
     }
   },
+  "FieldGroups": {
+  "Personal_Documents": "Persönliche Dokumenten",
+  "Contact_Details":"Kontaktangaben",
+  "Personal_Details":"Persönliche Angaben"
+  },
   "Properties": {
     "Account_BillingAddress": "Rechnungsadresse",
     "Account_MailingAddress": "Postanschrift",
@@ -217,10 +222,6 @@
     "Account_PassportIssuer":"",
     "Account_PassportId":"Reisepass: 9 Ziffern oben rechts auf Ihrem Reisepass",
     "Account_PassportValidUntil":"Reisepass: Gültig bis (TT.MM.JJJJ)",
-    "PersonalDetails":"Persönliche Angaben",
-    "ContactDetails":"Kontaktangaben",
-    "TermsAndConditions":"Ich stimme den <a href='https://www.flightright.de/agb' target='_blank'>Allgemeinen Geschäftsbedingungen</a> und der <a href='https://www.flightright.de/datenschutz' target='_blank'>Datenschutzerklärung</a> zu.",
-    "Account_PersonalDocuments":"Persönliche Dokumenten",
-    "PersonalDocuments":"Persönliche Dokumenten"
+    "TermsAndConditions":"Ich stimme den <a href='https://www.flightright.de/agb' target='_blank'>Allgemeinen Geschäftsbedingungen</a> und der <a href='https://www.flightright.de/datenschutz' target='_blank'>Datenschutzerklärung</a> zu."
     }
 }
