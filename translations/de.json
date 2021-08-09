@@ -173,7 +173,7 @@
     "Address": "Adresse",
     "FirstLastName": "Name",
     "Change_Address": "Adresse ändern",
-    "Change_Email": "Ändern Sie die E-Mail",
+    "Change_Email": "E-Mail ändern",
     "Change_FirstLastName": "Namen ändern",
     "Change_Name": "Namen ändern",
     "Change_Organization": "Organisation ändern",
@@ -202,7 +202,7 @@
     }
   },
   "Properties": {
-    "Account_BillingAddress": "Postanschrift",
+    "Account_BillingAddress": "Rechnungsadresse",
     "Account_MailingAddress": "Postanschrift",
     "Account_Name": "Organisation",
     "AddressLine1": "Anschrift Zeile 1",
