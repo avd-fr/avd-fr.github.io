@@ -24,13 +24,13 @@
     "CancelPlanChange": "Planänderung abbrechen",
     "CancelSubscription": "Abonnement kündigen",
     "ChangePlan": "Abonnementplan ändern",
-    "Checkout": "Einreichen",
+    "Checkout": "Anmeldung",
     "ChooseAccount": "Wählen Sie ein Konto",
     "ChooseAccountText": "Bitte wählen Sie das Konto aus, bei dem Sie sich anmelden möchten:",
     "ChooseOptionsAndCheckout": "Wählen Sie Optionen und Kasse",
-    "Close": "Abschließen",
+    "Close": "Anmeldung abschliessen",
     "CompletePlanChange": "Komplette Planänderung",
-    "CompleteSignUp": "Vollständige Anmeldung",
+    "CompleteSignUp": "Anmelden",
     "ConfirmPassword": "Kennwort bestätigen",
     "ContinueToCheckout": "Weiter",
     "CreateOneNow": "Erstellen Sie jetzt eine",
@@ -46,7 +46,7 @@
     "DontHaveAnAccount": "Sie haben noch kein Konto?",
     "DueAtRenewal": "Fällig bei Erneuerung",
     "DueNow": "Jetzt fällig",
-    "DueNowAndAtRenewal": "Jetzt fällig und bei Erneuerung",
+    "DueNowAndAtRenewal": "Jetzt fällig",
     "DueOn": "Fällig am {{dueDate}}",
     "EditOptions": "Optionen bearbeiten",
     "EndingIn": "Endet in",
@@ -134,7 +134,9 @@
     "Update": "Aktualisieren",
     "UpdatePaymentInformation": "Zahlungsinformationen aktualisieren",
     "YearAbbreviation": "yr",
-    "YourPlanHasBeenUpdated": "Ihr Plan wurde aktualisiert"
+    "YourPlanHasBeenUpdated": "Ihr Plan wurde aktualisiert",
+    "TermsAndConditions":"Ich stimme den <a href='https://www.flightright.de/agb' target='_blank'>Allgemeinen Geschäftsbedingungen</a> und der <a href='https://www.flightright.de/datenschutz' target='_blank'>Datenschutzerklärung</a> zu."
+
   },
   "Errors": {
     "AnErrorHasOccurred": "Ein Fehler ist aufgetreten.",
@@ -231,7 +233,6 @@
     "Account_NationalIdValidUntil":"Personalausweis: Gültig bis (TT.MM.JJJJ)",
     "Account_PassportIssuer":"Ausstellungsland",
     "Account_PassportId":"Reisepass: 9 Ziffern oben rechts auf Ihrem Reisepass",
-    "Account_PassportValidUntil":"Reisepass: Gültig bis (TT.MM.JJJJ)",
-    "TermsAndConditions":"Ich stimme den <a href='https://www.flightright.de/agb' target='_blank'>Allgemeinen Geschäftsbedingungen</a> und der <a href='https://www.flightright.de/datenschutz' target='_blank'>Datenschutzerklärung</a> zu."
+    "Account_PassportValidUntil":"Reisepass: Gültig bis (TT.MM.JJJJ)"
     }
 }
