@@ -135,8 +135,8 @@
     "UpdatePaymentInformation": "Zahlungsinformationen aktualisieren",
     "YearAbbreviation": "yr",
     "YourPlanHasBeenUpdated": "Ihr Plan wurde aktualisiert",
-    "TermsAndConditions":"Ich stimme den <a href='https://www.flightright.de/agb' target='_blank'>Allgemeinen Geschäftsbedingungen</a> und der <a href='https://www.flightright.de/datenschutz' target='_blank'>Datenschutzerklärung</a> zu."
-
+    "TermsAndConditions":"Ich stimme den <a href='https://www.flightright.de/agb' target='_blank'>Allgemeinen Geschäftsbedingungen</a> und der <a href='https://www.flightright.de/datenschutz' target='_blank'>Datenschutzerklärung</a> zu.",
+    "_comment":"Ich stimme den Allgemeinen Geschäftsbedingungen und der Datenschutzerklärung zu."
   },
   "Errors": {
     "AnErrorHasOccurred": "Ein Fehler ist aufgetreten.",
