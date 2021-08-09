@@ -181,8 +181,10 @@
     "Personal_Details":"Persönliche Angaben",
     "Change_Personal_Details":"Persönliche Angaben ändern",
     "Contact_Details":"Kontaktangaben",
-    "Change_Contact_Details":"Kontaktangaben ändern"
-  },
+    "Change_Contact_Details":"Kontaktangaben ändern",
+    "Billing_Address":"Rechnungsadresse",
+    "Change_Billing_Address":"Rechnungsadresse"
+    },
   "Plans": {
     "gWKjM29p": {
       "Name": "Flightright 24/7 1-Jahr kostenlose Mitgliedschaft",
