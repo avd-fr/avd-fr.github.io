@@ -187,12 +187,14 @@
     },
   "Plans": {
     "VmAEe8ma": {
-      "Name": "Flightright 24/7 kostenlose Mitgliedschaft (1 Jahr)",
+      "Name": "Flightright 24/7 Mitgliedschaft (1 Jahr)",
+      "Description":"24-h-Pannenhilfe bei geplanten Flügen",
       "UnitOfMeasure": "unit",
       "UnitOfMeasurePlural": "units"
     },
     "gWKjM29p": {
-      "Name": "Flightright 24/7 kostenlose Mitgliedschaft (1 Jahr)",
+      "Name": "Flightright 24/7 Mitgliedschaft (1 Jahr)",
+      "Description":"24-h-Pannenhilfe bei geplanten Flügen",
       "UnitOfMeasure": "unit",
       "UnitOfMeasurePlural": "units"
     }
