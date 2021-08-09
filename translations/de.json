@@ -184,8 +184,8 @@
     "Change_PersonalDetails":"Persönliche Angaben ändern",
     "ContactDetails":"Kontaktangaben",
     "Change_ContactDetails":"Kontaktangaben ändern",
-    "Billing_Address":"Rechnungsadresse",
-    "Change_Billing_Address":"Rechnungsadresse ändern"
+    "BillingAddress":"Rechnungsadresse",
+    "Change_BillingAddress":"Rechnungsadresse ändern"
     },
   "Plans": {
     "VmAEe8ma": {
@@ -237,5 +237,5 @@
   },
   "Countries": {
    "Germany": "Deutschland"
- }  
+ }
 }
