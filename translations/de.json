@@ -1,7 +1,7 @@
 ﻿{
   "Labels": {
     "Account": "Konto",
-    "AccountActionRequired": "Uh-oh! Ihr Konto ist entweder überfällig oder muss aktualisiert werden. <strong> {{primaryContactName}} </ strong> muss sich anmelden, um dies zu korrigieren. Dann können Sie wieder einsteigen.",
+    "AccountActionRequired": "Uh-oh! Ihr Konto ist entweder überfällig oder muss aktualisiert werden. <strong> {{primaryContactName}} </ strong> muss sich einloggen, um dies zu korrigieren. Dann können Sie wieder einsteigen.",
     "AccountCreated": "Account erstellt",
     "AccountOwner": "Kontoinhaber",
     "AccountUpdated": "Konto aktualisiert",
@@ -11,7 +11,7 @@
     "AlmostDone": "Fast fertig",
     "AlreadyHaveAnAccount": "Haben Sie bereits ein Konto?",
     "Apply": "Applicare",
-    "BackToSignIn": "Zurück zum Anmelden",
+    "BackToSignIn": "Zurück zum Einloggen",
     "BilledMonthly": "Wird monatlich abgerechnet",
     "BilledOnce": "Einmal in Rechnung gestellt",
     "BilledOneTime": "Einmal in Rechnung gestellt",
@@ -58,7 +58,7 @@
     "ForgotPasswordText": "Sie können sich nicht einloggen? Geben Sie unten Ihre E-Mail-Adresse ein und wir senden Ihnen eine E-Mail, um dies wieder in Ordnung zu bringen.",
     "Free": "Kostenlos",
     "InviteNewTeamMember": "Lade ein neues Teammitglied ein",
-    "Login": "Anmelden",
+    "Login": "Einloggen",
     "MailingAddress": "Postanschrift",
     "MonthAbbreviation": "mo",
     "Months": "monate",
