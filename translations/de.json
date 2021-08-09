@@ -178,12 +178,12 @@
     "Change_Name": "Namen ändern",
     "Change_Organization": "Organisation ändern",
     "Change_Password": "Passwort ändern",
-    "Personal_Documents":"Persönliche Dokumenten",
-    "Change_Personal_Documents":"Persönliche Dokumenten ändern",
-    "Personal_Details":"Persönliche Angaben",
-    "Change_Personal_Details":"Persönliche Angaben ändern",
-    "Contact_Details":"Kontaktangaben",
-    "Change_Contact_Details":"Kontaktangaben ändern",
+    "PersonalDocuments":"Persönliche Dokumenten",
+    "Change_PersonalDocuments":"Persönliche Dokumenten ändern",
+    "PersonalDetails":"Persönliche Angaben",
+    "Change_PersonalDetails":"Persönliche Angaben ändern",
+    "ContactDetails":"Kontaktangaben",
+    "Change_ContactDetails":"Kontaktangaben ändern",
     "Billing_Address":"Rechnungsadresse",
     "Change_Billing_Address":"Rechnungsadresse ändern"
     },
@@ -234,5 +234,8 @@
     "Account_PassportIssuer":"Ausstellungsland",
     "Account_PassportId":"Reisepass: 9 Ziffern oben rechts auf Ihrem Reisepass",
     "Account_PassportValidUntil":"Reisepass: Gültig bis (TT.MM.JJJJ)"
-    }
+  },
+  "Countries": {
+   "Germany": "Deutschland"
+ }  
 }
