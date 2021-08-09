@@ -175,7 +175,13 @@
     "Change_FirstLastName": "Namen ändern",
     "Change_Name": "Namen ändern",
     "Change_Organization": "Organisation ändern",
-    "Change_Password": "Kennwort ändern"
+    "Change_Password": "Kennwort ändern",
+    "Personal_Documents":"Persönliche Dokumenten",
+    "Change_Personal_Documents":"Persönliche Dokumenten ändern",
+    "Personal_Details":"Persönliche Angaben",
+    "Change_Personal_Details":"Persönliche Angaben ändern",
+    "Contact_Details":"Kontaktangaben",
+    "Change_Contact_Details":"Kontaktangaben ändern"
   },
   "Plans": {
     "gWKjM29p": {
@@ -183,14 +189,6 @@
       "UnitOfMeasure": "unit",
       "UnitOfMeasurePlural": "units"
     }
-  },
-  "FieldGroups": {
-    "Personal_Documents":"Persönliche Dokumenten",
-    "Change_Personal_Documents":"Persönliche Dokumenten ändern",
-    "Personal_Details":"Persönliche Angaben",
-    "Change_Personal_Details":"Persönliche Angaben ändern",
-    "Contact_Details":"Kontaktangaben",
-    "Change_Contact_Details":"Kontaktangaben ändern"
   },
   "Properties": {
     "Account_BillingAddress": "Rechnungsadresse",
