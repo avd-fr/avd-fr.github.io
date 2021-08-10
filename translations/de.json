@@ -229,10 +229,10 @@
     "Account_PreferredLanguage_English":"Englisch",
     "Account_PreferredLanguage_German":"Deutsch",
     "Account_DateOfBirth":"Geburtsdatum (TT.MM.JJJJ)",
-    "Account_NationalId":"Personalausweis: 9 Ziffern oben rechts auf Ihrem Personalausweis",
+    "Account_NationalId":"Personalausweis: 9 Stellen oben rechts auf Ihrem Personalausweis",
     "Account_NationalIdValidUntil":"Personalausweis: Gültig bis (TT.MM.JJJJ)",
     "Account_PassportIssuer":"Ausstellungsland",
-    "Account_PassportId":"Reisepass: 9 Ziffern oben rechts auf Ihrem Reisepass",
+    "Account_PassportId":"Reisepass: 9 Stellen oben rechts auf Ihrem Reisepass",
     "Account_PassportValidUntil":"Reisepass: Gültig bis (TT.MM.JJJJ)"
   },
   "Countries": {
