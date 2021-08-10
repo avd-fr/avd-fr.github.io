@@ -239,6 +239,7 @@
     "Account_PassportValidUntil":"Reisepass: Gültig bis (TT.MM.JJJJ)"
   },
   "Countries": {
+    "Germany":"Deutschland"
 
  }
 }
