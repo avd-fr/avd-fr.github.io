@@ -98,7 +98,7 @@
     "ProfileUpdated": "Profil aktualisiert",
     "ProtatedCredit": "Pro-Rated-kredit",
     "RegistrationComplete": "Sie haben sich registriert!<br/> Bei Fragen kontaktieren Sie bitte {{supportEmail}}.",
-    "RegistrationCompleteConfirmEmail": "Wir haben eine E-Mail geschickt an <strong>{{personEmail}}</strong>.<br/>Bitte klicken Sie auf den Link in der E-Mail, um Ihre Registrierung abzuschließen.",
+    "RegistrationCompleteConfirmEmail": "Wir haben eine E-Mail geschickt an <strong>{{personEmail}}</strong>.<br/>Bitte klicken Sie auf den Link in der E-Mail, um Ihre Anmeldung abzuschließen.",
     "RegistrationCompleteLogin": "Ihr Konto wurde erstellt. Klicken Sie unten, um sich anzumelden.",
     "Remove": "Entfernen",
     "RemovePaymentInformation": "Karte entfernen",
@@ -185,7 +185,9 @@
     "ContactDetails":"Kontaktangaben",
     "Change_ContactDetails":"Kontaktangaben ändern",
     "BillingAddress":"Rechnungsadresse",
-    "Change_BillingAddress":"Rechnungsadresse ändern"
+    "Change_BillingAddress":"Rechnungsadresse ändern",
+    "MailingAddress":"Postanschrift",
+    "Change_MailingAddress":"Postanschrift ändern"
     },
   "Plans": {
     "VmAEe8ma": {
