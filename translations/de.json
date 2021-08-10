@@ -172,6 +172,7 @@
   "FieldGroups": {
     "Address": "Adresse",
     "FirstLastName": "Name",
+    "Email":"E-Mail Adresse",
     "Change_Address": "Adresse ändern",
     "Change_Email": "E-Mail Adresse ändern",
     "Change_FirstLastName": "Namen ändern",
@@ -238,6 +239,6 @@
     "Account_PassportValidUntil":"Reisepass: Gültig bis (TT.MM.JJJJ)"
   },
   "Countries": {
-    
+
  }
 }
