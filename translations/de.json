@@ -239,7 +239,8 @@
     "Account_PassportValidUntil":"Dokument gültig bis (TT.MM.JJJJ)",
     "Account_TravelDocument":"Reisedokument zum Buchen ihrer kostenfreien Alternativflüge",
     "Account_TravelDocument_Passport":"Reisepass",
-    "Account_TravelDocument_NationalId":"Personalausweis"
+    "Account_TravelDocument_NationalId":"Personalausweis",
+    "Account_TravelDocument_Choose":"- auswählen -"
 
   },
   "Countries": {
