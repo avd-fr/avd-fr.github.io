@@ -235,8 +235,12 @@
     "Account_NationalId":"Personalausweis: 9 Stellen oben rechts auf Ihrem Personalausweis",
     "Account_NationalIdValidUntil":"Personalausweis: Gültig bis (TT.MM.JJJJ)",
     "Account_PassportIssuer":"Ausstellungsland",
-    "Account_PassportId":"Reisepass: 9 Stellen oben rechts auf Ihrem Reisepass",
-    "Account_PassportValidUntil":"Reisepass: Gültig bis (TT.MM.JJJJ)"
+    "Account_PassportId":"Dokument-Nr: 9 Stellen oben rechts",
+    "Account_PassportValidUntil":"Dokument gültig bis (TT.MM.JJJJ)",
+    "Account_DocumentType":"Reisedokument",
+    "Account_DocumentType_Passport":"Reisepass",
+    "Account_DocumentType_NationalId":"Personalausweis"
+
   },
   "Countries": {
     "Afghanistan":"Afghanistan",
