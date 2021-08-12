@@ -237,9 +237,9 @@
     "Account_PassportIssuer":"Ausstellungsland",
     "Account_PassportId":"Dokument-Nr: 9 Stellen oben rechts",
     "Account_PassportValidUntil":"Dokument gültig bis (TT.MM.JJJJ)",
-    "Account_DocumentType":"Reisedokument",
-    "Account_DocumentType_Passport":"Reisepass",
-    "Account_DocumentType_NationalId":"Personalausweis"
+    "Account_TravelDocument":"Reisedokument zum Buchen ihrer kostenfreien Alternativflüge",
+    "Account_TravelDocument_Passport":"Reisepass",
+    "Account_TravelDocument_NationalId":"Personalausweis"
 
   },
   "Countries": {
