@@ -1,0 +1,2826 @@
+[{
+  "_id": "qwerrt21",
+  "flightData": [
+    {
+      "fromAirport": "BER",
+      "toAirport": "FRA",
+      "departureDate": "15.02.2021",
+      "departureTime": "12:12",
+      "arrivalDate": "15.02.2021",
+      "arrivalTime": "14:00",
+      "airline": "Lufthansa"
+    },
+    {
+      "fromAirport": "BER",
+      "toAirport": "FRA",
+      "departureDate": "15.02.2021",
+      "departureTime": "12:12",
+      "arrivalDate": "15.02.2021",
+      "arrivalTime": "14:00",
+      "airline": "Lufthansa"
+    },
+    {
+      "fromAirport": "BER",
+      "toAirport": "FRA",
+      "departureDate": "15.02.2021",
+      "departureTime": "12:12",
+      "arrivalDate": "15.02.2021",
+      "arrivalTime": "14:00",
+      "airline": "Lufthansa"
+    }
+  ],
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "qwerrt2",
+  "flightData": [
+    {
+      "fromAirport": "BER",
+      "toAirport": "FRA",
+      "departureDate": "15.02.2021",
+      "departureTime": "12:12",
+      "arrivalDate": "15.02.2021",
+      "arrivalTime": "14:00",
+      "airline": "Lufthansa"
+    }
+  ],
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "496DM6Zm",
+  "flightData": [
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "arrivalDate": "",
+      "arrivalTime": ""
+    }
+  ],
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "XQY25dR9",
+  "flightData": [
+    {
+      "fromAirport": "Frankfurt (FRA)",
+      "toAirport": "Berlin (Tegel) (TXL)",
+      "departureDate": "2021-07-12",
+      "departureTime": "11:11",
+      "arrivalDate": "2021-07-12",
+      "arrivalTime": "22:22",
+      "airline": "Lufthansa"
+    }
+  ],
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "y9g8gzVW",
+  "flightData": [
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "arrivalDate": "",
+      "arrivalTime": "",
+      "airline": ""
+    }
+  ],
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "dQGnObAm",
+  "flightData": [
+    {
+      "fromAirport": "Frankfurt (FRA)",
+      "toAirport": "Berlin (Tegel) (TXL)",
+      "departureDate": "2021-07-12",
+      "departureTime": "11:11",
+      "arrivalDate": "2021-07-12",
+      "arrivalTime": "22:22",
+      "airline": "Lufthansa"
+    }
+  ],
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "L9P5gqOW",
+  "flightData": [
+    {
+      "fromAirport": "Frankfurt (FRA)",
+      "toAirport": "Berlin (Tegel) (TXL)",
+      "departureDate": "2020-11-11",
+      "departureTime": "11:11",
+      "arrivalDate": "2020-12-11",
+      "arrivalTime": "22:22",
+      "airline": "Lufthansa"
+    }
+  ],
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "wmjv3vam",
+  "flightData": [
+    {
+      "fromAirport": "Berlin (BER)",
+      "toAirport": "Frankfurt (FRA)",
+      "departureDate": "2021-07-22",
+      "departureTime": "10:00",
+      "arrivalDate": "2021-07-22",
+      "arrivalTime": "13:00",
+      "airline": "lufthansa"
+    }
+  ],
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "LmJ2eqYm",
+  "flightData": [
+    {
+      "fromAirport": "Las Palmas (LPA)",
+      "toAirport": "Berlin (Tegel) (TXL)",
+      "departureDate": "2020-10-10",
+      "departureTime": "10:00",
+      "arrivalDate": "2020-10-11",
+      "arrivalTime": "11:11",
+      "airline": ""
+    }
+  ],
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "wmjv34lm",
+  "flightData": [
+    {
+      "fromAirport": "Berlin (BER)",
+      "toAirport": "Las Palmas (LPA)",
+      "departureDate": "2021-11-11",
+      "departureTime": "11:01",
+      "arrivalDate": "2021-11-11",
+      "arrivalTime": "15:15",
+      "airline": "conny YY"
+    }
+  ],
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "y9qo373m",
+  "flightData": [
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "arrivalDate": "",
+      "arrivalTime": "",
+      "airline": ""
+    }
+  ],
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "OW4pnvVW",
+  "flightData": [
+    {
+      "fromAirport": "Berlin (BER)",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "arrivalDate": "",
+      "arrivalTime": "",
+      "airline": ""
+    }
+  ],
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "L9P5AO6W",
+  "flightData": [
+    {
+      "fromAirport": "Berlin (BER)",
+      "toAirport": "London (Heathrow) (LHR)",
+      "departureDate": "21/07/21",
+      "departureTime": "09:15",
+      "arrivalDate": "21/07/21",
+      "arrivalTime": "10:45",
+      "airline": ""
+    }
+  ],
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "aWxdDEjW",
+  "flightData": [
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "arrivalDate": "",
+      "arrivalTime": "",
+      "airline": ""
+    }
+  ],
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "A93xOGxW",
+  "flightData": [
+    {
+      "fromAirport": "Berlin (BER)",
+      "toAirport": "Paris (Charles de Gaulle) (CDG)",
+      "departureDate": "2021-07-23",
+      "departureTime": "15:20",
+      "arrivalDate": "2021-07-23",
+      "arrivalTime": "16:30",
+      "airline": "Air France"
+    }
+  ],
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "496DJndm",
+  "flightData": [
+    {
+      "fromAirport": "Berlin (BER)",
+      "toAirport": "Paris (Orly) (ORY)",
+      "departureDate": "2342-03-12",
+      "departureTime": "12:03",
+      "arrivalDate": "0234-03-12",
+      "arrivalTime": "23:04",
+      "airline": "sdf"
+    },
+    {
+      "fromAirport": "Paris (Orly) (ORY)",
+      "toAirport": "New York (John F Kennedy Int.) (JFK)",
+      "departureDate": "2343-04-23",
+      "departureTime": "03:02",
+      "arrivalDate": "0034-02-24",
+      "arrivalTime": "03:32",
+      "airline": "dfsdf"
+    },
+    {
+      "fromAirport": "Surallah (AAV)",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "arrivalDate": "",
+      "arrivalTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "Dallas (Fort Worth Int.) (DFW)",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "arrivalDate": "",
+      "arrivalTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "Braganca (BGC)",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "arrivalDate": "",
+      "arrivalTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "arrivalDate": "",
+      "arrivalTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "Paris (Orly) (ORY)",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "arrivalDate": "",
+      "arrivalTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "Derby (DRB)",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "arrivalDate": "",
+      "arrivalTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "Berbera (BBO)",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "arrivalDate": "",
+      "arrivalTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "Berbera (BBO)",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "arrivalDate": "",
+      "arrivalTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "Berlin (BER)",
+      "toAirport": "Wien (Vienna) (VIE)",
+      "departureDate": "1985-04-04",
+      "departureTime": "12:03",
+      "airline": "LH"
+    },
+    {
+      "fromAirport": "Berlin (BER)",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "Grand Bereby (BBV)",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "Grand Bereby (BBV)",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "Berlin (BER)",
+      "toAirport": "Paris (Orly) (ORY)",
+      "departureDate": "2020-01-01",
+      "departureTime": "11:01",
+      "airline": "Lufthansa"
+    },
+    {
+      "fromAirport": "Grand Bereby (BBV)",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "Berberati (BBT)",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "Buenos Aires Airport (BAI)",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "2234-04-23",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "Grand Bereby (BBV)",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "Berlin (BER)",
+      "toAirport": "Paris (Charles de Gaulle) (CDG)",
+      "departureDate": "2021-07-17",
+      "departureTime": "17:25",
+      "airline": "Lufthansa"
+    },
+    {
+      "fromAirport": "New York (John F Kennedy Int.) (JFK)",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "Kekana Kauai (BKH)",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": "Test after 30 min on phone"
+    },
+    {
+      "fromAirport": "Tucupita (TUV)",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": "Nach einer Stunde"
+    },
+    {
+      "fromAirport": "Hamilton (BDA)",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": "Good morning"
+    },
+    {
+      "fromAirport": "Berlin (BER)",
+      "toAirport": "Las Palmas (LPA)",
+      "departureDate": "2020-11-11",
+      "departureTime": "12:03",
+      "airline": "during review"
+    },
+    {
+      "fromAirport": "Berlin (BER)",
+      "toAirport": "Paris (Orly) (ORY)",
+      "departureDate": "2010-10-10",
+      "departureTime": "12:03",
+      "airline": "Aaron Airways"
+    },
+    {
+      "fromAirport": "Ghardaia (GHA)",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "Berlin (BER)",
+      "toAirport": "Las Palmas (LPA)",
+      "departureDate": "2021-08-04",
+      "departureTime": "09:20",
+      "airline": "Iberia"
+    }
+  ],
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "gWKjyJl9",
+  "flightData": [
+    {
+      "fromAirport": "Berlin (BER)",
+      "toAirport": "Cairo (CAI)",
+      "departureDate": "2021-07-23",
+      "departureTime": "15:45",
+      "arrivalDate": "2021-07-23",
+      "arrivalTime": "22:00",
+      "airline": "Egyptair"
+    },
+    {
+      "fromAirport": "Frankfurt (FRA)",
+      "toAirport": "Wien (Vienna) (VIE)",
+      "departureDate": "2021-07-24",
+      "departureTime": "",
+      "arrivalDate": "",
+      "arrivalTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "Frankfurt (FRA)",
+      "toAirport": "London (Heathrow) (LHR)",
+      "departureDate": "2021-07-25",
+      "departureTime": "",
+      "arrivalDate": "",
+      "arrivalTime": "",
+      "airline": ""
+    }
+  ],
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "B9lrZxDm",
+  "flightData": [
+    {
+      "fromAirport": "Muenchen (Munich) (MUC)",
+      "toAirport": "Cancun (CUN)",
+      "departureDate": "2021-08-06",
+      "departureTime": "13:35",
+      "arrivalDate": "2021-08-06",
+      "arrivalTime": "21:45",
+      "airline": "Tap"
+    },
+    {
+      "fromAirport": "Muenchen (Munich) (MUC)",
+      "toAirport": "Lisboa (Lisbon) (LIS)",
+      "departureDate": "2021-08-06",
+      "departureTime": "13:35",
+      "airline": "Tap"
+    },
+    {
+      "fromAirport": "Lisboa (Lisbon) (LIS)",
+      "toAirport": "Cancun (CUN)",
+      "departureDate": "2021-08-06",
+      "departureTime": "18:40",
+      "airline": "TAP"
+    }
+  ],
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "vW5xdzX9",
+  "flightData": [
+    {
+      "fromAirport": "Berlin (Tegel) (TXL)",
+      "toAirport": "Frankfurt (FRA)",
+      "departureDate": "2020-02-21",
+      "departureTime": "12:12",
+      "airline": "Lufthansa"
+    },
+    {
+      "fromAirport": "Berlin (Tegel) (TXL)",
+      "toAirport": "Frankfurt (FRA)",
+      "departureDate": "2021-07-06",
+      "departureTime": "11:11",
+      "airline": "Lufthansa"
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "Berlin (Tegel) (TXL)",
+      "toAirport": "Frankfurt (FRA)",
+      "departureDate": "1111-11-11",
+      "departureTime": "18:08",
+      "airline": "Lufthansa"
+    }
+  ],
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "EWBjpllW",
+  "flightData": [
+    {
+      "fromAirport": "Frankfurt (FRA)",
+      "toAirport": "Melbourne (Moorabbin) (MBW)",
+      "departureDate": "2021-11-04",
+      "departureTime": "20:00",
+      "airline": "Lufthansa"
+    }
+  ],
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "vW5xdNl9",
+  "flightData": [
+    {
+      "fromAirport": "Berlin (BER)",
+      "toAirport": "Paris (Orly) (ORY)",
+      "departureDate": "2021-07-15",
+      "departureTime": "15:56",
+      "airline": "LH"
+    }
+  ],
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "DQ2G7zL9",
+  "flightData": [
+    {
+      "fromAirport": "Berlin (BER)",
+      "toAirport": "Barcelona (El Prat) (BCN)",
+      "departureDate": "2021-10-01",
+      "departureTime": "10:05",
+      "airline": "Ryanair"
+    },
+    {
+      "fromAirport": "Berlin (BER)",
+      "toAirport": "Paris (Charles de Gaulle) (CDG)",
+      "departureDate": "2021-09-13",
+      "departureTime": "12:50",
+      "airline": "Airfrance"
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "Monterrey (Monterrey Int.) (MTY)",
+      "toAirport": "Mexico City (Int.) (MEX)",
+      "departureDate": "2021-08-17",
+      "departureTime": "10:00",
+      "airline": "Aeromexico"
+    },
+    {
+      "fromAirport": "Lisboa (Lisbon) (LIS)",
+      "toAirport": "Amsterdam (AMS)",
+      "departureDate": "2020-02-01",
+      "departureTime": "01:10",
+      "airline": "KLM"
+    },
+    {
+      "fromAirport": "Berlin (BER)",
+      "toAirport": "Budapest (BUD)",
+      "departureDate": "2021-08-19",
+      "departureTime": "12:10",
+      "airline": "Ryanair"
+    },
+    {
+      "fromAirport": "Vancouver - BC (YVR)",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "Berlin (BER)",
+      "toAirport": "Paris (Charles de Gaulle) (CDG)",
+      "departureDate": "2021-09-08",
+      "departureTime": "10:05",
+      "airline": "Airfrance"
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "Monterrey (Monterrey Int.) (MTY)",
+      "toAirport": "Cancun (CUN)",
+      "departureDate": "2022-01-12",
+      "departureTime": "10:23",
+      "airline": "AA"
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "Berbera (BBO)",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "Berlin (BER)",
+      "toAirport": "Teheran (Theran) (THR)",
+      "departureDate": "2021-09-30",
+      "departureTime": "23:22",
+      "airline": "Ryanair"
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "München (MUC)",
+      "toAirport": "Berlin (Brandenburg) (BER)",
+      "departureDate": "2021-10-15",
+      "departureTime": "10:00",
+      "airline": "Lufthansa"
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "Paris (Charles de Gaulle) (CDG)",
+      "toAirport": "Berlin (Brandenburg) (BER)",
+      "departureDate": "2021-09-19",
+      "departureTime": "21:51",
+      "airline": "LH"
+    },
+    {
+      "fromAirport": "Berlin (Brandenburg) (BER)",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "Berlin (Brandenburg) (BER)",
+      "toAirport": "Frankfurt (am Main) (FRA)",
+      "departureDate": "2021-09-02",
+      "departureTime": "10:20",
+      "airline": "Lufthansa"
+    },
+    {
+      "fromAirport": "Frankfurt (am Main) (FRA)",
+      "toAirport": "Berlin (Brandenburg) (BER)",
+      "departureDate": "1988-12-16",
+      "departureTime": "12:10",
+      "airline": "Lufthansa"
+    },
+    {
+      "fromAirport": "Berbera (BBO)",
+      "toAirport": "Canaima (CAJ)",
+      "departureDate": "2010-01-01",
+      "departureTime": "10:10",
+      "airline": "Lufthansa"
+    },
+    {
+      "fromAirport": "Berbera (BBO)",
+      "toAirport": "Canaima (CAJ)",
+      "departureDate": "2001-01-01",
+      "departureTime": "10:01",
+      "airline": "Lufthansa"
+    },
+    {
+      "fromAirport": "Berlin (Brandenburg) (BER)",
+      "toAirport": "Barcelona (El Prat) (BCN)",
+      "departureDate": "2020-10-30",
+      "departureTime": "20:15",
+      "airline": "Vueling"
+    },
+    {
+      "fromAirport": "Berlin (Brandenburg) (BER)",
+      "toAirport": "Barcelona (El Prat) (BCN)",
+      "departureDate": "2020-10-10",
+      "departureTime": "10:10",
+      "airline": "Lufthansa"
+    },
+    {
+      "fromAirport": "Frankfurt (am Main) (FRA)",
+      "toAirport": "Dallas - TX (Fort Worth Int.) (DFW)",
+      "departureDate": "2021-10-07",
+      "departureTime": "16:15",
+      "airline": "QS"
+    },
+    {
+      "fromAirport": "Frankfurt (am Main) (FRA)",
+      "toAirport": "Berlin (Brandenburg) (BER)",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "Cancun (CUN)",
+      "toAirport": "Monterrey (Monterrey Int.) (MTY)",
+      "departureDate": "2021-10-13",
+      "departureTime": "10:22",
+      "airline": "AM"
+    },
+    {
+      "fromAirport": "Berlin (Brandenburg) (BER)",
+      "toAirport": "Mailand (Milan) - Malpensa (MXP)",
+      "departureDate": "2021-10-17",
+      "departureTime": "13:35",
+      "airline": "FR"
+    },
+    {
+      "fromAirport": "Berlin (Brandenburg) (BER)",
+      "toAirport": "Hamburg (HAM)",
+      "departureDate": "2021-10-15",
+      "departureTime": "15:41",
+      "airline": "U2"
+    }
+  ],
+  "lastModified": {
+    "$date": "2021-10-14T11:41:39.270Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "49EvOx6W",
+  "flightData": [
+    {
+      "fromAirport": "Berlin (BER)",
+      "toAirport": "Paris (Charles de Gaulle) (CDG)",
+      "departureDate": "2021-09-06",
+      "departureTime": "08:30",
+      "airline": "Air France"
+    }
+  ],
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "yWoOl1MW",
+  "flightData": [
+    {
+      "fromAirport": "Berlin (BER)",
+      "toAirport": "Frankfurt (FRA)",
+      "departureDate": "2021-08-20",
+      "departureTime": "17:45",
+      "airline": "Lufthansa"
+    },
+    {
+      "fromAirport": "Frankfurt (FRA)",
+      "toAirport": "Krakow (KRK)",
+      "departureDate": "2021-08-20",
+      "departureTime": "21:05",
+      "airline": "Lufthansa"
+    },
+    {
+      "fromAirport": "Krakow (KRK)",
+      "toAirport": "Muenchen (Munich) (MUC)",
+      "departureDate": "2021-08-28",
+      "departureTime": "13:10",
+      "airline": "Lufthansa"
+    },
+    {
+      "fromAirport": "Muenchen (Munich) (MUC)",
+      "toAirport": "Berlin (BER)",
+      "departureDate": "2021-08-28",
+      "departureTime": "15:45",
+      "airline": "Lufthansa"
+    }
+  ],
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "VmA4rO0W",
+  "flightData": [
+    {
+      "fromAirport": "Paris (Orly) (ORY)",
+      "toAirport": "Berlin (BER)",
+      "departureDate": "2021-08-30",
+      "departureTime": "20:30",
+      "airline": "Easyjet"
+    }
+  ],
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "Nmdebr1Q",
+  "flightData": [
+    {
+      "fromAirport": "Las Palmas (LPA)",
+      "toAirport": "Berlin (BER)",
+      "departureDate": "2021-08-02",
+      "departureTime": "15:29",
+      "airline": "VY"
+    }
+  ],
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "B9lr8NDm",
+  "flightData": [
+    {
+      "fromAirport": "Berlin (BER)",
+      "toAirport": "Paris (Charles de Gaulle) (CDG)",
+      "departureDate": "2021-08-11",
+      "departureTime": "12:30",
+      "airline": "Airfrance"
+    }
+  ],
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "vW5xNn69",
+  "flightData": [
+    {
+      "fromAirport": "Frankfurt (FRA)",
+      "toAirport": "Berlin (Tegel) (TXL)",
+      "departureDate": "2020-01-28",
+      "departureTime": "11:46",
+      "airline": "LH"
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    }
+  ],
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "pWr81PgQ",
+  "flightData": [
+    {
+      "fromAirport": "Paris (Charles de Gaulle) (CDG)",
+      "toAirport": "London (Heathrow) (LHR)",
+      "departureDate": "2019-10-11",
+      "departureTime": "20:35",
+      "airline": "British Airlines"
+    }
+  ],
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "xmewXpa9",
+  "flightData": [
+    {
+      "fromAirport": "Berlin (BER)",
+      "toAirport": "Muenchen (Munich) (MUC)",
+      "departureDate": "2022-02-14",
+      "departureTime": "16:20",
+      "airline": "lufthansa"
+    }
+  ],
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "NmdeY31Q",
+  "flightData": [
+    {
+      "fromAirport": "Berlin (BER)",
+      "toAirport": "Palma de Mallorca- Balearic Islands (PMI)",
+      "departureDate": "0021-10-05",
+      "departureTime": "20:00",
+      "airline": "easyjet"
+    },
+    {
+      "fromAirport": "Palma de Mallorca- Balearic Islands (PMI)",
+      "toAirport": "Berlin (BER)",
+      "departureDate": "2021-10-11",
+      "departureTime": "09:25",
+      "airline": "easyjet"
+    }
+  ],
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "rQVP2JKW",
+  "flightData": [
+    {
+      "fromAirport": "Budapest (BUD)",
+      "toAirport": "Berlin (BER)",
+      "departureDate": "2021-08-24",
+      "departureTime": "19:25",
+      "airline": "Ryanair"
+    },
+    {
+      "fromAirport": "Berlin (BER)",
+      "toAirport": "Budapest (BUD)",
+      "departureDate": "2021-08-28",
+      "departureTime": "17:25",
+      "airline": "Ryanair"
+    }
+  ],
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "Rm8pqnYm",
+  "flightData": [
+    {
+      "fromAirport": "Berlin (BER)",
+      "toAirport": "Stockholm (ARN)",
+      "departureDate": "2021-08-20",
+      "departureTime": "18:30",
+      "airline": "Easyjet"
+    }
+  ],
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "amRXOqj9",
+  "flightData": [
+    {
+      "fromAirport": "Sofia (SOF)",
+      "toAirport": "Zakynthos (ZTH)",
+      "departureDate": "2021-08-15",
+      "departureTime": "06:30",
+      "airline": "Wizz Air"
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "Zakynthos (ZTH)",
+      "toAirport": "Sofia (SOF)",
+      "departureDate": "2021-08-19",
+      "departureTime": "14:45",
+      "airline": "Wizz Air"
+    }
+  ],
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "ZmNDxzE9",
+  "flightData": [
+    {
+      "fromAirport": "Berlin (BER)",
+      "toAirport": "Bristol (BRS)",
+      "departureDate": "2021-09-20",
+      "departureTime": "16:35",
+      "airline": "easyJet"
+    }
+  ],
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "DQ2G8Rn9",
+  "flightData": [
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "Comodoro Rivadavia (CRD)",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": "eay"
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "2021-08-21",
+      "departureTime": "04:03",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "Berlin (BER)",
+      "toAirport": "Bangkok (BKK)",
+      "departureDate": "2021-08-16",
+      "departureTime": "17:38",
+      "airline": "created date?"
+    },
+    {
+      "fromAirport": "Berlin (BER)",
+      "toAirport": "Bangkok (BKK)",
+      "departureDate": "2021-08-16",
+      "departureTime": "17:38",
+      "airline": "created date?"
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "Berlin (BER)",
+      "toAirport": "Paris (Charles de Gaulle) (CDG)",
+      "departureDate": "2021-09-07",
+      "departureTime": "18:00",
+      "airline": "Dudu"
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "pal",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "La Palma (PLP)",
+      "toAirport": "",
+      "departureDate": "2021-09-16",
+      "departureTime": "12:25",
+      "airline": "Luf"
+    },
+    {
+      "fromAirport": "Palma de Mallorca - Balearen (PMI)",
+      "toAirport": "Berlin (Brandenburg) (BER)",
+      "departureDate": "2021-09-23",
+      "departureTime": "12:25",
+      "airline": "FR"
+    },
+    {
+      "fromAirport": "Berlin (Brandenburg) (BER)",
+      "toAirport": "Köln/Bonn (CGN)",
+      "departureDate": "2021-09-30",
+      "departureTime": "20:27",
+      "airline": "LH"
+    }
+  ],
+  "lastModified": {
+    "$date": "2021-09-29T10:26:53.760Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "ZmNDbKp9",
+  "flightData": [
+    {
+      "fromAirport": "Frankfurt (FRA)",
+      "toAirport": "Addis Ababa (ADD)",
+      "departureDate": "2021-09-01",
+      "departureTime": "22:05",
+      "airline": "Ethiopien Airways"
+    },
+    {
+      "fromAirport": "Addis Ababa (ADD)",
+      "toAirport": "Moroni (HAH)",
+      "departureDate": "2021-09-02",
+      "departureTime": "10:00",
+      "airline": "Ethiopien Airways"
+    },
+    {
+      "fromAirport": "Moroni (HAH)",
+      "toAirport": "Addis Ababa (ADD)",
+      "departureDate": "2021-09-18",
+      "departureTime": "16:35",
+      "airline": "Ethiopien Airways"
+    },
+    {
+      "fromAirport": "Addis Ababa (ADD)",
+      "toAirport": "Frankfurt (FRA)",
+      "departureDate": "2021-09-18",
+      "departureTime": "23:40",
+      "airline": "Ethiopien Airways"
+    }
+  ],
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "XQY2zZg9",
+  "flightData": [
+    {
+      "fromAirport": "Berlin (BER)",
+      "toAirport": "Stockholm (ARN)",
+      "departureDate": "2021-08-20",
+      "departureTime": "18:15",
+      "airline": "Easyjet"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-08-16T14:05:23.811Z"
+  },
+  "lastModified": {
+    "$date": "2021-08-16T14:05:23.859Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "test123",
+  "flightData": [
+    {
+      "fromAirport": "BERs",
+      "toAirport": "FRA",
+      "departureDate": "15.02.2021",
+      "departureTime": "12:12",
+      "arrivalDate": "15.02.2021",
+      "arrivalTime": "14:00",
+      "airline": "Lufthansa"
+    },
+    {
+      "fromAirport": "BERs",
+      "toAirport": "FRA",
+      "departureDate": "15.02.2021",
+      "departureTime": "12:12",
+      "arrivalDate": "15.02.2021",
+      "arrivalTime": "14:00",
+      "airline": "Lufthansa"
+    },
+    {
+      "fromAirport": "BERs",
+      "toAirport": "FRA",
+      "departureDate": "15.02.2021",
+      "departureTime": "12:12",
+      "arrivalDate": "15.02.2021",
+      "arrivalTime": "14:00",
+      "airline": "Lufthansa"
+    },
+    {
+      "fromAirport": "BERs",
+      "toAirport": "FRA",
+      "departureDate": "15.02.2021",
+      "departureTime": "12:12",
+      "arrivalDate": "15.02.2021",
+      "arrivalTime": "14:00",
+      "airline": "Lufthansa"
+    },
+    {
+      "fromAirport": "BERs",
+      "toAirport": "FRA",
+      "departureDate": "15.02.2021",
+      "departureTime": "12:12",
+      "arrivalDate": "15.02.2021",
+      "arrivalTime": "14:00",
+      "airline": "Lufthansa"
+    },
+    {
+      "fromAirport": "BERs",
+      "toAirport": "FRA",
+      "departureDate": "15.02.2021",
+      "departureTime": "12:12",
+      "arrivalDate": "15.02.2021",
+      "arrivalTime": "14:00",
+      "airline": "Lufthansa"
+    },
+    {
+      "fromAirport": "BERs",
+      "toAirport": "FRA",
+      "departureDate": "15.02.2021",
+      "departureTime": "12:12",
+      "arrivalDate": "15.02.2021",
+      "arrivalTime": "14:00",
+      "airline": "Lufthansa"
+    },
+    {
+      "fromAirport": "BERs",
+      "toAirport": "FRA",
+      "departureDate": "15.02.2021",
+      "departureTime": "12:12",
+      "arrivalDate": "15.02.2021",
+      "arrivalTime": "14:00",
+      "airline": "Lufthansa"
+    },
+    {
+      "fromAirport": "DEL",
+      "toAirport": "BER",
+      "departureDate": "2021-06-21",
+      "departureTime": "19:19",
+      "airline": "lufthansa"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-08-17T07:05:09.482Z"
+  },
+  "lastModified": {
+    "$date": "2021-09-16T18:05:19.826Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "zWZ2NyrW",
+  "flightData": [
+    {
+      "fromAirport": "Berlin (BER)",
+      "toAirport": "Porto (Oporto) (OPO)",
+      "departureDate": "2021-09-01",
+      "departureTime": "21:50",
+      "airline": "Ryan Air"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-08-17T14:17:21.993Z"
+  },
+  "lastModified": {
+    "$date": "2021-08-17T14:17:21.993Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "yWoOADNW",
+  "flightData": [
+    {
+      "fromAirport": "Berlin (BER)",
+      "toAirport": "Barcelona (El Prat) (BCN)",
+      "departureDate": "2021-09-19",
+      "departureTime": "06:30",
+      "airline": "Lufthansa"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-08-18T13:22:51.467Z"
+  },
+  "lastModified": {
+    "$date": "2021-08-18T13:22:51.468Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "L9nwGLZW",
+  "flightData": [
+    {
+      "fromAirport": "Kerkyra - Corfu (CFU)",
+      "toAirport": "Ciudad de Mexico (Mexico City) (Int.) (MEX)",
+      "departureDate": "2021-08-01",
+      "departureTime": "12:16",
+      "airline": "Easyjet"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-08-18T15:04:59.627Z"
+  },
+  "lastModified": {
+    "$date": "2021-08-18T15:04:59.628Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "j9bXP2Mm",
+  "flightData": [
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ".de domain"
+    },
+    {
+      "fromAirport": "Paris (Charles de Gaulle) (CDG)",
+      "toAirport": "Berlin (BER)",
+      "departureDate": "2021-08-26",
+      "departureTime": "15:06",
+      "airline": "Ryanair"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-08-18T15:45:05.467Z"
+  },
+  "lastModified": {
+    "$date": "2021-08-25T08:01:17.590Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "1QpAE1p9",
+  "flightData": [
+    {
+      "fromAirport": "Berberati (BBT)",
+      "toAirport": "Paris (Charles de Gaulle) (CDG)",
+      "departureDate": "2022-01-10",
+      "departureTime": "11:00",
+      "airline": "KLM"
+    },
+    {
+      "fromAirport": "Berberati (BBT)",
+      "toAirport": "Paris (Charles de Gaulle) (CDG)",
+      "departureDate": "2022-01-10",
+      "departureTime": "11:00",
+      "airline": "KLM"
+    },
+    {
+      "fromAirport": "Berbera (BBO)",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-08-19T11:57:45.366Z"
+  },
+  "lastModified": {
+    "$date": "2021-08-20T08:36:00.183Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "aWxRY81Q",
+  "flightData": [
+    {
+      "fromAirport": "Delhi (DEL)",
+      "toAirport": "Berlin (BER)",
+      "departureDate": "2021-08-27",
+      "departureTime": "09:19",
+      "airline": "lufthansa"
+    },
+    {
+      "fromAirport": "DEL",
+      "toAirport": "BER",
+      "departureDate": "2021-06-21",
+      "departureTime": "19:19",
+      "airline": "lufthansa"
+    },
+    {
+      "fromAirport": "Paris (Charles de Gaulle) (CDG)",
+      "toAirport": "Stuttgart (STR)",
+      "departureDate": "2021-09-07",
+      "departureTime": "01:01",
+      "airline": "Test airline"
+    },
+    {
+      "fromAirport": "test",
+      "toAirport": "test",
+      "departureDate": "test",
+      "departureTime": "test",
+      "arrivalDate": "test",
+      "arrivalTime": "test",
+      "airline": "test"
+    },
+    {
+      "fromAirport": "test",
+      "toAirport": "test",
+      "departureDate": "test",
+      "departureTime": "test",
+      "arrivalDate": "test",
+      "arrivalTime": "test",
+      "airline": "test"
+    },
+    {
+      "fromAirport": "STR",
+      "toAirport": "CDG",
+      "departureDate": "2021-09-03",
+      "departureTime": "21:49",
+      "airline": "UX"
+    },
+    {
+      "fromAirport": "STR",
+      "toAirport": "CDG",
+      "departureDate": "2021-09-03",
+      "departureTime": "21:49",
+      "airline": "UX"
+    },
+    {
+      "fromAirport": "BER",
+      "toAirport": "GRU",
+      "departureDate": "2021-09-05",
+      "departureTime": "00:07",
+      "airline": "AB"
+    },
+    {
+      "fromAirport": "BER",
+      "toAirport": "TXL",
+      "departureDate": "2021-09-05",
+      "departureTime": "00:07",
+      "airline": "AB"
+    },
+    {
+      "fromAirport": "Berlin (Brandenburg) (BER)",
+      "toAirport": "Berlin (Tegel) (TXL)",
+      "departureDate": "2021-09-02",
+      "departureTime": "22:08",
+      "airline": "Air Berlin"
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "2021-09-23",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "2021-09-23",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "Mumbay (Bombay) (BOM)",
+      "toAirport": "Benghazi (BEN)",
+      "departureDate": "2021-09-29",
+      "departureTime": "00:03",
+      "airline": "Air India"
+    },
+    {
+      "fromAirport": "Berlin (Brandenburg) (BER)",
+      "toAirport": "Mexico (Atizapan) (AZP)",
+      "departureDate": "2021-09-14",
+      "departureTime": "22:02",
+      "airline": "German Airways "
+    },
+    {
+      "fromAirport": "Berbera (BBO)",
+      "toAirport": "Stuttgart (STR)",
+      "departureDate": "2021-09-22",
+      "departureTime": "12:12",
+      "airline": "CL"
+    },
+    {
+      "fromAirport": "Delhi (DEL)",
+      "toAirport": "Mumbay (Bombay) (BOM)",
+      "departureDate": "2021-12-15",
+      "departureTime": "17:39",
+      "airline": "AI"
+    },
+    {
+      "fromAirport": "Danville - IL (DNV)",
+      "toAirport": "Amata - Northern Territory (AMT)",
+      "departureDate": "2021-10-22",
+      "departureTime": "21:09",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "Berlin (Brandenburg) (BER)",
+      "toAirport": "Ciudad del Este (AGT)",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "Berlin (Brandenburg) (BER)",
+      "toAirport": "Ciudad del Este (AGT)",
+      "departureDate": "2021-10-07",
+      "departureTime": "20:30",
+      "airline": "AB"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-08-20T07:10:33.788Z"
+  },
+  "lastModified": {
+    "$date": "2021-10-14T12:59:10.450Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "testtest123",
+  "flightData": [
+    {
+      "fromAirport": "BERs",
+      "toAirport": "FRA",
+      "departureDate": "15.02.2021",
+      "departureTime": "12:12",
+      "arrivalDate": "15.02.2021",
+      "arrivalTime": "14:00",
+      "airline": "Lufthansa"
+    },
+    {
+      "fromAirport": "BERs",
+      "toAirport": "FRA",
+      "departureDate": "15.02.2021",
+      "departureTime": "12:12",
+      "arrivalDate": "15.02.2021",
+      "arrivalTime": "14:00",
+      "airline": "Lufthansa"
+    },
+    {
+      "fromAirport": "BERs",
+      "toAirport": "FRA",
+      "departureDate": "15.02.2021",
+      "departureTime": "12:12",
+      "arrivalDate": "15.02.2021",
+      "arrivalTime": "14:00",
+      "airline": "Lufthansa"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-08-20T12:04:40.038Z"
+  },
+  "lastModified": {
+    "$date": "2021-08-20T12:04:45.442Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "OW4pzbMW",
+  "flightData": [
+    {
+      "fromAirport": "Berlin (BER)",
+      "toAirport": "Newark - NJ (EWR)",
+      "departureDate": "2021-11-19",
+      "departureTime": "09:55",
+      "airline": "United Airlines"
+    },
+    {
+      "fromAirport": "Newark - NJ (EWR)",
+      "toAirport": "Berlin (BER)",
+      "departureDate": "2021-11-29",
+      "departureTime": "18:05",
+      "airline": "United Airlines"
+    },
+    {
+      "fromAirport": "Berlin (Brandenburg) (BER)",
+      "toAirport": "Newark - NJ (EWR)",
+      "departureDate": "2021-11-19",
+      "departureTime": "09:55",
+      "airline": "United"
+    },
+    {
+      "fromAirport": "Berlin (Brandenburg) (BER)",
+      "toAirport": "Frankfurt (am Main) (FRA)",
+      "departureDate": "2021-11-19",
+      "departureTime": "",
+      "airline": "UA"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-08-20T12:39:05.561Z"
+  },
+  "lastModified": {
+    "$date": "2021-09-27T14:57:36.115Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "Rm85jDYQ",
+  "flightData": [
+    {
+      "fromAirport": "Frankfurt (am Main) (FRA)",
+      "toAirport": "Wien (VIE)",
+      "departureDate": "2021-09-02",
+      "departureTime": "10:05",
+      "airline": "Lufthansa"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-08-20T15:13:21.417Z"
+  },
+  "lastModified": {
+    "$date": "2021-08-20T15:13:21.417Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "zWZ5nXM9",
+  "flightData": [
+    {
+      "fromAirport": "Berlin (BER)",
+      "toAirport": "Split (SPU)",
+      "departureDate": "2021-09-18",
+      "departureTime": "07:20",
+      "airline": "EasyJet"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-08-23T06:31:01.124Z"
+  },
+  "lastModified": {
+    "$date": "2021-08-23T06:31:01.124Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "ZmNDxK39",
+  "flightData": [
+    {
+      "fromAirport": "San Jose (Juan Santamaría) (SJO)",
+      "toAirport": "Frankfurt (am Main) (FRA)",
+      "departureDate": "2021-08-26",
+      "departureTime": "07:35",
+      "airline": "Lufthansa"
+    },
+    {
+      "fromAirport": "San Jose (Juan Santamaría) (SJO)",
+      "toAirport": "Frankfurt (am Main) (FRA)",
+      "departureDate": "2021-08-26",
+      "departureTime": "07:35",
+      "airline": "Lufthansa"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-08-24T10:05:29.225Z"
+  },
+  "lastModified": {
+    "$date": "2021-08-24T10:05:29.796Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "7maRGyJQ",
+  "flightData": [
+    {
+      "fromAirport": "Berlin (BER)",
+      "toAirport": "Faro (FAO)",
+      "departureDate": "2021-09-03",
+      "departureTime": "19:00",
+      "airline": "Ryanair"
+    },
+    {
+      "fromAirport": "Faro (FAO)",
+      "toAirport": "Berlin (BER)",
+      "departureDate": "2021-09-07",
+      "departureTime": "17:50",
+      "airline": "easyJet"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-08-24T10:08:34.334Z"
+  },
+  "lastModified": {
+    "$date": "2021-08-24T10:10:04.562Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "LmJ3aJDQ",
+  "flightData": [
+    {
+      "fromAirport": "Berlin (BER)",
+      "toAirport": "Palma de Mallorca - Balearen (PMI)",
+      "departureDate": "29.12.2021",
+      "departureTime": "7:25",
+      "airline": "Eurowings EW"
+    },
+    {
+      "fromAirport": "Palma de Mallorca - Balearen (PMI)",
+      "toAirport": "Berlin (BER)",
+      "departureDate": "01.01.2022",
+      "departureTime": "13:55",
+      "airline": "Ryanair FR 111"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-08-30T06:20:26.123Z"
+  },
+  "lastModified": {
+    "$date": "2021-08-30T06:21:02.805Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "XQYMDZqQ",
+  "flightData": [
+    {
+      "fromAirport": "Kyyiv (Kiev) (Kiev Zhuliany Int.) (IEV)",
+      "toAirport": "Köln/Bonn (CGN)",
+      "departureDate": "2021-09-02",
+      "departureTime": "18:35",
+      "airline": "Wizzair"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-09-01T07:31:33.658Z"
+  },
+  "lastModified": {
+    "$date": "2021-09-01T07:31:33.659Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "E9L030b9",
+  "flightData": [
+    {
+      "fromAirport": "Cape York - Queensland (ABM)",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-09-03T08:48:52.142Z"
+  },
+  "lastModified": {
+    "$date": "2021-09-03T08:48:52.142Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "ZmNNRrZm",
+  "flightData": [
+    {
+      "fromAirport": "Dublin (DUB)",
+      "toAirport": "Berlin (BER)",
+      "departureDate": "24.09.2021",
+      "departureTime": "09.15",
+      "airline": "Ryanair"
+    },
+    {
+      "fromAirport": "Dublin (DUB)",
+      "toAirport": "Berlin (BER)",
+      "departureDate": "28.09.2021",
+      "departureTime": "08:35",
+      "airline": "Ryanair"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-09-03T10:43:36.610Z"
+  },
+  "lastModified": {
+    "$date": "2021-09-09T10:39:18.874Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "L9P4RbA9",
+  "flightData": [
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-09-07T18:39:35.225Z"
+  },
+  "lastModified": {
+    "$date": "2021-09-07T18:39:35.225Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "rQVvwplQ",
+  "flightData": [
+    {
+      "fromAirport": "Frankfurt (am Main) (FRA)",
+      "toAirport": "Berlin (Brandenburg) (BER)",
+      "departureDate": "2022-12-01",
+      "departureTime": "10:20",
+      "airline": "Lufthansa"
+    },
+    {
+      "fromAirport": "Ciudad de Mexico (Mexico City) (Int.) (MEX)",
+      "toAirport": "Frankfurt (am Main) (FRA)",
+      "departureDate": "2020-12-16",
+      "departureTime": "12:00",
+      "airline": "KLM"
+    },
+    {
+      "fromAirport": "Frankfurt (am Main) (FRA)",
+      "toAirport": "München (MUC)",
+      "departureDate": "2021-09-30",
+      "departureTime": "10:10",
+      "airline": "LH"
+    },
+    {
+      "fromAirport": "Berlin (Brandenburg) (BER)",
+      "toAirport": "Amsterdam (AMS)",
+      "departureDate": "2021-12-15",
+      "departureTime": "19:00",
+      "airline": "KL"
+    },
+    {
+      "fromAirport": "Amsterdam (AMS)",
+      "toAirport": "Ciudad de Mexico (Mexico City) (Int.) (MEX)",
+      "departureDate": "2021-12-15",
+      "departureTime": "21:30",
+      "airline": "AM"
+    },
+    {
+      "fromAirport": "Ciudad de Mexico (Mexico City) (Int.) (MEX)",
+      "toAirport": "Amsterdam (AMS)",
+      "departureDate": "2022-01-01",
+      "departureTime": "23:30",
+      "airline": "KL"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-09-24T13:16:08.431Z"
+  },
+  "lastModified": {
+    "$date": "2021-09-28T08:23:46.507Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "B9lV2Zlm",
+  "flightData": [
+    {
+      "fromAirport": "Frankfurt (am Main) (FRA)",
+      "toAirport": "Berlin (Brandenburg) (BER)",
+      "departureDate": "2021-09-14",
+      "departureTime": "19:37",
+      "airline": "LH"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-09-24T15:34:06.647Z"
+  },
+  "lastModified": {
+    "$date": "2021-09-24T15:34:06.647Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "amRykqAW",
+  "flightData": [
+    {
+      "fromAirport": "berli",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "Berlin (Brandenburg) (BER)",
+      "toAirport": "Las Palmas/Gran Canaria - Kanaren (LPA)",
+      "departureDate": "2021-10-01",
+      "departureTime": "19:57",
+      "airline": "I2"
+    },
+    {
+      "fromAirport": "Berlin (Brandenburg) (BER)",
+      "toAirport": "Paris (Charles de Gaulle) (CDG)",
+      "departureDate": "2021-10-03",
+      "departureTime": "17:58",
+      "airline": "FR"
+    },
+    {
+      "fromAirport": "Berlin (Brandenburg) (BER)",
+      "toAirport": "Madrid (MAD)",
+      "departureDate": "2021-10-02",
+      "departureTime": "18:58",
+      "airline": "IB"
+    },
+    {
+      "fromAirport": "Berlin (Brandenburg) (BER)",
+      "toAirport": "Moskau (Moskva) - Sheremetyevo (SVO)",
+      "departureDate": "2021-09-26",
+      "departureTime": "17:59",
+      "airline": "SU"
+    },
+    {
+      "fromAirport": "Berlin (Brandenburg) (BER)",
+      "toAirport": "Moskau (Moskva) - Domodedovo (DME)",
+      "departureDate": "2021-10-15",
+      "departureTime": "19:41",
+      "airline": "SU"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-09-24T15:56:58.235Z"
+  },
+  "lastModified": {
+    "$date": "2021-09-29T17:42:05.761Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "OW4kgXX9",
+  "flightData": [
+    {
+      "fromAirport": "Frankfurt (am Main) (FRA)",
+      "toAirport": "Cancun (CUN)",
+      "departureDate": "2021-12-10",
+      "departureTime": "10:45",
+      "airline": "LH"
+    },
+    {
+      "fromAirport": "Cancun (CUN)",
+      "toAirport": "Frankfurt (am Main) (FRA)",
+      "departureDate": "2021-12-30",
+      "departureTime": "18:40",
+      "airline": "LH"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-09-26T12:01:57.335Z"
+  },
+  "lastModified": {
+    "$date": "2021-09-26T12:03:39.759Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "DQ2vgOBQ",
+  "flightData": [
+    {
+      "fromAirport": "Berlin (Brandenburg) (BER)",
+      "toAirport": "Fuerteventura/Puerto del Rosario - Kanaren (FUE)",
+      "departureDate": "2021-09-28",
+      "departureTime": "11:00",
+      "airline": "U2"
+    },
+    {
+      "fromAirport": "Berlin (Brandenburg) (BER)",
+      "toAirport": "Bologna (BLQ)",
+      "departureDate": "2021-10-11",
+      "departureTime": "12:50",
+      "airline": "FR"
+    },
+    {
+      "fromAirport": "Berlin (Brandenburg) (BER)",
+      "toAirport": "Frankfurt (am Main) (FRA)",
+      "departureDate": "2021-11-01",
+      "departureTime": "09:45",
+      "airline": "LH"
+    },
+    {
+      "fromAirport": "Frankfurt (am Main) (FRA)",
+      "toAirport": "Seattle - WA (Tacoma Int.) (SEA)",
+      "departureDate": "",
+      "departureTime": "13:55",
+      "airline": "DE"
+    },
+    {
+      "fromAirport": "Seattle - WA (Tacoma Int.) (SEA)",
+      "toAirport": "Phoenix - AZ (Sky Harbor Int.) (PHX)",
+      "departureDate": "2021-11-01",
+      "departureTime": "20:41",
+      "airline": "AS"
+    },
+    {
+      "fromAirport": "Phoenix - AZ (Sky Harbor Int.) (PHX)",
+      "toAirport": "Ciudad de Mexico (Mexico City) (Int.) (MEX)",
+      "departureDate": "2021-12-30",
+      "departureTime": "09:50",
+      "airline": "AA"
+    },
+    {
+      "fromAirport": "Fuerteventura/Puerto del Rosario - Kanaren (FUE)",
+      "toAirport": "Berlin (Brandenburg) (BER)",
+      "departureDate": "2021-10-05",
+      "departureTime": "16:55",
+      "airline": "U2"
+    },
+    {
+      "fromAirport": "Bologna (BLQ)",
+      "toAirport": "Berlin (Brandenburg) (BER)",
+      "departureDate": "2021-10-27",
+      "departureTime": "09:40",
+      "airline": "FR"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-09-27T13:04:25.292Z"
+  },
+  "lastModified": {
+    "$date": "2021-09-29T14:06:52.631Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "xmewBaj9",
+  "flightData": [
+    {
+      "fromAirport": "Berlin (Brandenburg) (BER)",
+      "toAirport": "Paris (Charles de Gaulle) (CDG)",
+      "departureDate": "2021-09-30",
+      "departureTime": "14:04",
+      "airline": "LH"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-09-28T12:04:29.716Z"
+  },
+  "lastModified": {
+    "$date": "2021-09-28T12:04:29.717Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "49E8g7wQ",
+  "flightData": [
+    {
+      "fromAirport": "München (MUC)",
+      "toAirport": "Frankfurt (am Main) (FRA)",
+      "departureDate": "2021-10-01",
+      "departureTime": "20:05",
+      "airline": "LH"
+    },
+    {
+      "fromAirport": "Frankfurt (am Main) (FRA)",
+      "toAirport": "München (MUC)",
+      "departureDate": "2021-10-10",
+      "departureTime": "19:05",
+      "airline": "LH"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-09-28T14:03:16.787Z"
+  },
+  "lastModified": {
+    "$date": "2021-09-28T14:03:49.793Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "E9L0BZP9",
+  "flightData": [
+    {
+      "fromAirport": "Frankfurt (am Main) (FRA)",
+      "toAirport": "Palma de Mallorca - Balearen (PMI)",
+      "departureDate": "2021-06-17",
+      "departureTime": "06:58",
+      "airline": "FR"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-09-29T09:59:13.546Z"
+  },
+  "lastModified": {
+    "$date": "2021-09-29T09:59:13.547Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "nmDvqVR9",
+  "flightData": [
+    {
+      "fromAirport": "Frankfurt (am Main) (FRA)",
+      "toAirport": "",
+      "departureDate": "2021-11-04",
+      "departureTime": "13:10",
+      "airline": "UA"
+    },
+    {
+      "fromAirport": "Orlando - FL (Int.) (MCO)",
+      "toAirport": "Frankfurt (am Main) (FRA)",
+      "departureDate": "2021-11-21",
+      "departureTime": "19:35",
+      "airline": ""
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-09-29T19:05:24.500Z"
+  },
+  "lastModified": {
+    "$date": "2021-09-29T19:13:25.723Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "496rMBd9",
+  "flightData": [
+    {
+      "fromAirport": "Dublin (DUB)",
+      "toAirport": "Berlin (Brandenburg) (BER)",
+      "departureDate": "06.10",
+      "departureTime": "07:55",
+      "airline": "FR"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-09-30T09:58:19.877Z"
+  },
+  "lastModified": {
+    "$date": "2021-09-30T09:58:19.877Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "gWKe7gMQ",
+  "flightData": [
+    {
+      "fromAirport": "Berlin (Brandenburg) (BER)",
+      "toAirport": "Paris (Charles de Gaulle) (CDG)",
+      "departureDate": "2021-10-07",
+      "departureTime": "15:04",
+      "airline": "AF"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-09-30T11:04:12.450Z"
+  },
+  "lastModified": {
+    "$date": "2021-09-30T11:04:12.450Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "vW5rK26m",
+  "flightData": [
+    {
+      "fromAirport": "Berlin (Brandenburg) (BER)",
+      "toAirport": "Frankfurt (am Main) (FRA)",
+      "departureDate": "2021-10-30",
+      "departureTime": "13:04",
+      "airline": "LH"
+    },
+    {
+      "fromAirport": "Berlin",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": "Lufthan"
+    },
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": "Lufthansa"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-09-30T11:04:18.582Z"
+  },
+  "lastModified": {
+    "$date": "2021-10-01T08:03:23.390Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "gWKe7EMQ",
+  "flightData": [
+    {
+      "fromAirport": "Frankfurt (am Main) (FRA)",
+      "toAirport": "München (MUC)",
+      "departureDate": "2021-12-16",
+      "departureTime": "21:00",
+      "airline": ""
+    },
+    {
+      "fromAirport": "München (MUC)",
+      "toAirport": "Frankfurt (am Main) (FRA)",
+      "departureDate": "2021-12-31",
+      "departureTime": "16:00",
+      "airline": "LH"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-09-30T13:57:20.511Z"
+  },
+  "lastModified": {
+    "$date": "2021-09-30T13:57:54.940Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "pWr81oNQ",
+  "flightData": [
+    {
+      "fromAirport": "Berlin (Brandenburg) (BER)",
+      "toAirport": "Madrid (MAD)",
+      "departureDate": "2021-10-04",
+      "departureTime": "11:40",
+      "airline": "IB"
+    },
+    {
+      "fromAirport": "Madrid (MAD)",
+      "toAirport": "Berlin (Brandenburg) (BER)",
+      "departureDate": "2021-10-09",
+      "departureTime": "16:00",
+      "airline": "IB"
+    },
+    {
+      "fromAirport": "Berlin (Brandenburg) (BER)",
+      "toAirport": "Barcelona (El Prat) (BCN)",
+      "departureDate": "2021-10-11",
+      "departureTime": "17:25",
+      "airline": "VY"
+    },
+    {
+      "fromAirport": "Barcelona (El Prat) (BCN)",
+      "toAirport": "Berlin (Brandenburg) (BER)",
+      "departureDate": "2021-10-16",
+      "departureTime": "19:35",
+      "airline": "FR"
+    },
+    {
+      "fromAirport": "Berlin (Brandenburg) (BER)",
+      "toAirport": "Barcelona (El Prat) (BCN)",
+      "departureDate": "2021-10-11",
+      "departureTime": "14:50",
+      "airline": "VY"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-10-01T15:30:42.472Z"
+  },
+  "lastModified": {
+    "$date": "2021-10-01T15:35:25.079Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "49E8XgjQ",
+  "flightData": [
+    {
+      "fromAirport": "Alicante (ALC)",
+      "toAirport": "Berlin (Brandenburg) (BER)",
+      "departureDate": "2021-10-03",
+      "departureTime": "18:25",
+      "airline": "FR"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-10-03T08:14:46.832Z"
+  },
+  "lastModified": {
+    "$date": "2021-10-03T08:14:46.832Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "49E8pjeQ",
+  "flightData": [
+    {
+      "fromAirport": "Berlin (Brandenburg) (BER)",
+      "toAirport": "Paris (Charles de Gaulle) (CDG)",
+      "departureDate": "2021-10-05",
+      "departureTime": "12:59",
+      "airline": "LH"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-10-04T09:59:52.526Z"
+  },
+  "lastModified": {
+    "$date": "2021-10-04T09:59:52.527Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "vWydVyy9",
+  "flightData": [
+    {
+      "fromAirport": "Berlin (Brandenburg) (BER)",
+      "toAirport": "Palma de Mallorca - Balearen (PMI)",
+      "departureDate": "2021-10-06",
+      "departureTime": "21:50",
+      "airline": "FR"
+    },
+    {
+      "fromAirport": "Palma de Mallorca - Balearen (PMI)",
+      "toAirport": "Berlin (Brandenburg) (BER)",
+      "departureDate": "2021-10-11",
+      "departureTime": "17:40",
+      "airline": "FR"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-10-05T08:13:30.862Z"
+  },
+  "lastModified": {
+    "$date": "2021-10-05T08:14:26.820Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "E9L0Lbb9",
+  "flightData": [
+    {
+      "fromAirport": "Hamburg (HAM)",
+      "toAirport": "Varna (VAR)",
+      "departureDate": "22.11.2021",
+      "departureTime": "16.30",
+      "airline": "W6"
+    },
+    {
+      "fromAirport": "Varna (VAR)",
+      "toAirport": "Hamburg (HAM)",
+      "departureDate": "29.11.2021",
+      "departureTime": "14.10",
+      "airline": "W6"
+    },
+    {
+      "fromAirport": "Hamburg (HAM)",
+      "toAirport": "Varna (VAR)",
+      "departureDate": "22.11.2021",
+      "departureTime": "16.30",
+      "airline": "W6"
+    },
+    {
+      "fromAirport": "Varna (VAR)",
+      "toAirport": "Hamburg",
+      "departureDate": "",
+      "departureTime": "",
+      "airline": ""
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-10-07T15:55:43.209Z"
+  },
+  "lastModified": {
+    "$date": "2021-10-07T16:00:16.200Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "vW5rVK6m",
+  "flightData": [
+    {
+      "fromAirport": "Frankfurt (am Main) (FRA)",
+      "toAirport": "Hurghada (HRG)",
+      "departureDate": "2021-12-30",
+      "departureTime": "10:30",
+      "airline": "DE"
+    },
+    {
+      "fromAirport": "Hurghada (HRG)",
+      "toAirport": "Frankfurt (am Main) (FRA)",
+      "departureDate": "2022-01-20",
+      "departureTime": "17:10",
+      "airline": "DE"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-10-08T08:07:03.698Z"
+  },
+  "lastModified": {
+    "$date": "2021-10-08T08:08:30.448Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "aWxR7Y1Q",
+  "flightData": [
+    {
+      "fromAirport": "",
+      "toAirport": "",
+      "departureDate": "2021-10-11",
+      "departureTime": "13:30",
+      "airline": "EW"
+    },
+    {
+      "fromAirport": "Faro (FAO)",
+      "toAirport": "Köln/Bonn (CGN)",
+      "departureDate": "2021-10-18",
+      "departureTime": "16:20",
+      "airline": "EW"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-10-11T06:51:48.891Z"
+  },
+  "lastModified": {
+    "$date": "2021-10-11T06:53:44.899Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "NmddbJ1m",
+  "flightData": [
+    {
+      "fromAirport": "Hamburg (HAM)",
+      "toAirport": "Paris (Charles de Gaulle) (CDG)",
+      "departureDate": "20.10.2021",
+      "departureTime": "10.50",
+      "airline": "AF"
+    },
+    {
+      "fromAirport": "Paris (Charles de Gaulle) (CDG)",
+      "toAirport": "Hamburg (HAM)",
+      "departureDate": "24.10.2021",
+      "departureTime": "17.00",
+      "airline": "AF"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-10-12T10:27:08.054Z"
+  },
+  "lastModified": {
+    "$date": "2021-10-12T10:28:05.798Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "B9lV8bnm",
+  "flightData": [
+    {
+      "fromAirport": "Zürich (ZRH)",
+      "toAirport": "Marsa Alam (RMF)",
+      "departureDate": "2022-01-04",
+      "departureTime": "09:15",
+      "airline": "WK"
+    },
+    {
+      "fromAirport": "Marsa Alam (RMF)",
+      "toAirport": "Zürich (ZRH)",
+      "departureDate": "2022-02-01",
+      "departureTime": "15:45",
+      "airline": "WK"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-10-12T10:31:53.696Z"
+  },
+  "lastModified": {
+    "$date": "2021-10-12T10:35:16.070Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "EWBnapNW",
+  "flightData": [
+    {
+      "fromAirport": "Hamburg (HAM)",
+      "toAirport": "Oviedo (Asturias) (OVD)",
+      "departureDate": "2021-10-20",
+      "departureTime": "14:45",
+      "airline": "VY"
+    },
+    {
+      "fromAirport": "Hamburg (HAM)",
+      "toAirport": "Barcelona (El Prat) (BCN)",
+      "departureDate": "2021-10-20",
+      "departureTime": "14:45",
+      "airline": "VY"
+    },
+    {
+      "fromAirport": "Barcelona (El Prat) (BCN)",
+      "toAirport": "Oviedo (Asturias) (OVD)",
+      "departureDate": "2021-10-20",
+      "departureTime": "20:00",
+      "airline": "VY"
+    },
+    {
+      "fromAirport": "Oviedo (Asturias) (OVD)",
+      "toAirport": "Barcelona (El Prat) (BCN)",
+      "departureDate": "2021-11-04",
+      "departureTime": "09:00",
+      "airline": "VY"
+    },
+    {
+      "fromAirport": "Barcelona (El Prat) (BCN)",
+      "toAirport": "Hamburg (HAM)",
+      "departureDate": "2021-11-04",
+      "departureTime": "11:35",
+      "airline": "VY"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-10-13T10:21:54.239Z"
+  },
+  "lastModified": {
+    "$date": "2021-10-13T10:26:18.382Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "rQVvdJAQ",
+  "flightData": [
+    {
+      "fromAirport": "Berlin (Brandenburg) (BER)",
+      "toAirport": "Mailand (Milan) - Malpensa (MXP)",
+      "departureDate": "2021-10-29",
+      "departureTime": "12:30",
+      "airline": "U2"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-10-14T08:40:16.475Z"
+  },
+  "lastModified": {
+    "$date": "2021-10-14T08:40:16.475Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "y9qOw1zm",
+  "flightData": [
+    {
+      "fromAirport": "Berlin (Brandenburg) (BER)",
+      "toAirport": "Paris (Charles de Gaulle) (CDG)",
+      "departureDate": "2021-10-22",
+      "departureTime": "10:05",
+      "airline": "AF"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-10-15T08:06:02.177Z"
+  },
+  "lastModified": {
+    "$date": "2021-10-15T08:06:02.177Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "79Oa05Gm",
+  "flightData": [
+    {
+      "fromAirport": "Berlin (Brandenburg) (BER)",
+      "toAirport": "London (Heathrow) (LHR)",
+      "departureDate": "2021-10-22",
+      "departureTime": "11:48",
+      "airline": "LH"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-10-15T09:49:05.060Z"
+  },
+  "lastModified": {
+    "$date": "2021-10-15T09:49:05.060Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "NmddR0zm",
+  "flightData": [
+    {
+      "fromAirport": "Berlin (Brandenburg) (BER)",
+      "toAirport": "Madrid (MAD)",
+      "departureDate": "2021-10-13",
+      "departureTime": "19:05",
+      "airline": "KL"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-10-15T14:05:09.091Z"
+  },
+  "lastModified": {
+    "$date": "2021-10-15T14:05:09.091Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+},{
+  "_id": "y9qOM8zm",
+  "flightData": [
+    {
+      "fromAirport": "Frankfurt (am Main) (FRA)",
+      "toAirport": "Punta Cana (PUJ)",
+      "departureDate": "2021-11-23",
+      "departureTime": "12:30",
+      "airline": "DE"
+    },
+    {
+      "fromAirport": "Punta Cana (PUJ)",
+      "toAirport": "Frankfurt (am Main) (FRA)",
+      "departureDate": "2021-12-21",
+      "departureTime": "19:40",
+      "airline": "DE"
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-10-18T08:37:18.204Z"
+  },
+  "lastModified": {
+    "$date": "2021-10-18T08:38:36.184Z"
+  },
+  "_class": "de.flightright.outsetaflightdata.dto.CustomerFlightdata"
+}]
